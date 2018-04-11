@@ -1,9 +1,7 @@
 <!DOCTYPE html>
 <html>
  <body>   
-  <h1>My Heading<h1> 
-  <p>My Paragraph<p>
-  <b>Hello this my 1st website<b>
-	<u>It is a winter wonderland<u>
+ <h1>My Heading<h1> 
+ <p>My Paragraph<p> <b>Hello this my 1st website<b> <u>It is a winter wonderland<u>
  </body>
 </html>
